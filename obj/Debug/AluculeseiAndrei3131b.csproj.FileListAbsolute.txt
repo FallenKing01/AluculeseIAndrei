@@ -1,0 +1,11 @@
+F:\Aluculesei EGC\AluculeseiAndrei3131b\bin\Debug\AluculeseiAndrei3131b.exe.config
+F:\Aluculesei EGC\AluculeseiAndrei3131b\bin\Debug\AluculeseiAndrei3131b.exe
+F:\Aluculesei EGC\AluculeseiAndrei3131b\bin\Debug\AluculeseiAndrei3131b.pdb
+F:\Aluculesei EGC\AluculeseiAndrei3131b\bin\Debug\OpenTK.dll
+F:\Aluculesei EGC\AluculeseiAndrei3131b\bin\Debug\OpenTK.pdb
+F:\Aluculesei EGC\AluculeseiAndrei3131b\bin\Debug\OpenTK.xml
+F:\Aluculesei EGC\AluculeseiAndrei3131b\obj\Debug\AluculeseiAndrei3131b.csproj.AssemblyReference.cache
+F:\Aluculesei EGC\AluculeseiAndrei3131b\obj\Debug\AluculeseiAndrei3131b.csproj.CoreCompileInputs.cache
+F:\Aluculesei EGC\AluculeseiAndrei3131b\obj\Debug\AluculeseiAndrei3131b.csproj.CopyComplete
+F:\Aluculesei EGC\AluculeseiAndrei3131b\obj\Debug\AluculeseiAndrei3131b.exe
+F:\Aluculesei EGC\AluculeseiAndrei3131b\obj\Debug\AluculeseiAndrei3131b.pdb
